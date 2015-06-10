@@ -16,7 +16,6 @@
         <item name="android:colorAccent">@color/accent</item>
     </style>
 
-
     <style name="LayoutTheme" parent="AppTheme">
         <item name="android:windowBackground">@color/light_gray</item>
         <item name="android:colorBackground">@color/light_gray</item>
